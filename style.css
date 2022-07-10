@@ -1,0 +1,103 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Roboto Mono', monospace;
+}
+
+h1{
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625em;
+  line-height: 2;
+  margin: 50px auto 0 auto;
+}
+
+h2{
+  color: #66BFBF;
+  font-family: 'Roboto Mono', monospace;
+  font-weight: normal;
+}
+
+h3{
+  color: #11999E;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.top-container{
+  background-color: #DFF6FF;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container{
+  margin-bottom: 50px;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  height: 100px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.chilli-img{
+  border-radius: 50%;
+  height: 18.75rem;
+  width: 18.75rem;
+  margin: 50px;
+}
+
+.computer-img{
+  border-radius: 50%;
+  height: 18.75rem;
+  width: 18.75rem;
+  margin: 50px;
+}
+
+.copyright{
+  margin: 10px;
+}
+
+.footer-link{
+  display: inline-block;
+  text-decoration: none;
+}
+
+.profile{
+  margin: 50px auto 0 auto;
+}
+
+.profile-img{
+  height: 15.625rem;
+  width: 15.625rem;
+}
+
+.sub-heading{
+  font-size: 2.5rem;
+  color: black;
+}
+
+.skills{
+  margin: 50px 100px 50px 100px;
+}
+
+.skill-row{
+  margin: 0 100px 0 100px;
+  text-align: left;
+  line-height: 2;
+}
+
+.underline{
+  text-decoration: underline;
+}
